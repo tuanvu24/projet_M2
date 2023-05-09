@@ -1,0 +1,1 @@
+{"text": " Okay, good, that's fine.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 29.68, "text": " Okay, good, that's fine.", "tokens": [50363, 16805, 11, 922, 11, 326, 338, 3734, 13, 51847], "temperature": 0.0, "avg_logprob": -0.6184186935424805, "compression_ratio": 0.75, "no_speech_prob": 0.40608954429626465}], "language": "en", "label": 0}

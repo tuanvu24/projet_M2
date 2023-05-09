@@ -1,0 +1,1 @@
+{"text": " Thank you.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 8.2, "text": " Thank you.", "tokens": [50363, 6952, 345, 13, 50773], "temperature": 0.4, "avg_logprob": -0.8508796691894531, "compression_ratio": 0.5555555555555556, "no_speech_prob": 0.39279547333717346}], "language": "en", "label": 0}
