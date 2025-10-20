@@ -1,1 +1,0 @@
-{"text": " That's all the action I see.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 6.0, "text": " That's all the action I see.", "tokens": [50363, 1320, 338, 477, 262, 2223, 314, 766, 13, 50663], "temperature": 0.0, "avg_logprob": -0.6163342215798118, "compression_ratio": 0.7777777777777778, "no_speech_prob": 0.28991466760635376}], "language": "en", "label": 0}

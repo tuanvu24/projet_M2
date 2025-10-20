@@ -1,1 +1,0 @@
-{"text": " Down in the picture.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Down in the picture.", "tokens": [50363, 5588, 287, 262, 4286, 13, 50463], "temperature": 0.0, "avg_logprob": -0.6170575618743896, "compression_ratio": 0.7142857142857143, "no_speech_prob": 0.18539409339427948}], "language": "en", "label": 0}

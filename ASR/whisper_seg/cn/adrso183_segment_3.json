@@ -1,1 +1,0 @@
-{"text": " I think I've run out of...", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 7.0, "text": " I think I've run out of...", "tokens": [50363, 314, 892, 314, 1053, 1057, 503, 286, 986, 50713], "temperature": 0.0, "avg_logprob": -0.5502757159146395, "compression_ratio": 0.7647058823529411, "no_speech_prob": 0.09264835715293884}], "language": "en", "label": 0}

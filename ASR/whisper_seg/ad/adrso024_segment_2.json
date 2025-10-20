@@ -1,1 +1,0 @@
-{"text": " The sink is overflowing.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 9.0, "text": " The sink is overflowing.", "tokens": [50363, 383, 14595, 318, 43347, 13, 50813], "temperature": 0.0, "avg_logprob": -0.7247034907341003, "compression_ratio": 0.75, "no_speech_prob": 0.1092459186911583}], "language": "en", "label": 1}

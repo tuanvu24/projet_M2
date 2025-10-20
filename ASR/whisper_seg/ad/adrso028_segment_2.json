@@ -1,1 +1,0 @@
-{"text": " Good.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Good.", "tokens": [50363, 4599, 13, 50463], "temperature": 0.0, "avg_logprob": -0.37239227294921873, "compression_ratio": 0.38461538461538464, "no_speech_prob": 0.14697697758674622}], "language": "en", "label": 1}

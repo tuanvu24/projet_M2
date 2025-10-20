@@ -1,1 +1,0 @@
-{"text": " She has an apron on.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " She has an apron on.", "tokens": [50363, 1375, 468, 281, 257, 31186, 319, 13, 50463], "temperature": 0.0, "avg_logprob": -0.48671531677246094, "compression_ratio": 0.7142857142857143, "no_speech_prob": 0.17324018478393555}], "language": "en", "label": 0}
